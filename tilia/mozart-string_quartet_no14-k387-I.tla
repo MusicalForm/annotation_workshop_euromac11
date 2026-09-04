@@ -54,17 +54,9 @@
         18,
         19,
         20,
-        21,
-        22,
-        23,
-        24,
-        25
+        21
       ],
       "beats_in_measure": [
-        4,
-        4,
-        4,
-        4,
         4,
         4,
         4,
@@ -92,7 +84,7 @@
       "is_visible": true,
       "name": "Beatgrid",
       "ordinal": 3,
-      "hash": "beb9e74963cc7f1587a1ceab92ddaed8",
+      "hash": "5d678c888b4eb17c24d9f7e23efaff18",
       "components": {
         "2": {
           "time": 8.06898307800293,
@@ -173,86 +165,6 @@
           "time": 16.068927764892578,
           "kind": "BEAT",
           "hash": "70eef55db9b881cc6f094d90ec18779d"
-        },
-        "18": {
-          "time": 16.668926239013672,
-          "kind": "BEAT",
-          "hash": "72b80de2abc591b36b7030c0107169ba"
-        },
-        "19": {
-          "time": 17.268993377685547,
-          "kind": "BEAT",
-          "hash": "4b9a7761e7a836877da014faf4691a9f"
-        },
-        "20": {
-          "time": 17.86908721923828,
-          "kind": "BEAT",
-          "hash": "be45be7df33b3e8b2fc527b15c4e325e"
-        },
-        "21": {
-          "time": 18.36954116821289,
-          "kind": "BEAT",
-          "hash": "2b39ce132d3456ea83f4f2c927e53155"
-        },
-        "22": {
-          "time": 18.868919372558594,
-          "kind": "BEAT",
-          "hash": "616e7ad95c084ef530c7f4f75f8ac2a9"
-        },
-        "23": {
-          "time": 19.374999999999993,
-          "kind": "BEAT",
-          "hash": "336798e239227e6ac058cc09ab5f670d"
-        },
-        "24": {
-          "time": 19.968921661376953,
-          "kind": "BEAT",
-          "hash": "f8536e15321dd788aeda50acccd93dd2"
-        },
-        "25": {
-          "time": 20.469558715820312,
-          "kind": "BEAT",
-          "hash": "31e859d4c0ee171e16eddf04061015e7"
-        },
-        "26": {
-          "time": 21.069759368896484,
-          "kind": "BEAT",
-          "hash": "65811505c1979a2e0b57fbb4a4693cd5"
-        },
-        "27": {
-          "time": 21.569007873535156,
-          "kind": "BEAT",
-          "hash": "f52f0fc59dd742d89475c2022b84ad01"
-        },
-        "28": {
-          "time": 22.068984985351562,
-          "kind": "BEAT",
-          "hash": "220e5a703802bd104a1a3c5c735a41b4"
-        },
-        "29": {
-          "time": 22.56964111328125,
-          "kind": "BEAT",
-          "hash": "3c4d4186a7da7e06b1eeb1337067049d"
-        },
-        "30": {
-          "time": 23.16887664794922,
-          "kind": "BEAT",
-          "hash": "b0dd62da06f0cc803c670f4f38b3fbef"
-        },
-        "31": {
-          "time": 23.66899871826172,
-          "kind": "BEAT",
-          "hash": "ce829ce60aaa67540b49a06baa1d21c7"
-        },
-        "32": {
-          "time": 24.268985748291016,
-          "kind": "BEAT",
-          "hash": "7a5b13ab7823cd422007e7c5238104fe"
-        },
-        "33": {
-          "time": 24.869863510131836,
-          "kind": "BEAT",
-          "hash": "26962d0ba79f3b2bba25d6442b99ec1a"
         },
         "34": {
           "time": 25.477602005004883,
@@ -580,7 +492,7 @@
           "hash": "485eda0e068d38a086972b86ce7ac0cd"
         }
       },
-      "components_hash": "4d5d52ad2df352ae29aa8b326726708c"
+      "components_hash": "69b09c59dae4e300bd13fe20ad219337"
     },
     "102": {
       "kind": "HIERARCHY_TIMELINE",
@@ -991,7 +903,7 @@
       "components_hash": "fa6e8749385938d09499f55e16e917ee"
     }
   },
-  "timelines_hash": "b912d87d42b1734a32db4c316449cc73",
+  "timelines_hash": "da2423b2d1d962c44528b46967d37ae0",
   "app_name": "TiLiA",
   "version": "0.6.4"
 }
