@@ -1,8 +1,8 @@
 {
-  "file_path": "C:/Users/hentschel/Nextcloud/Shared/SNF-Projekt Musical Form/EuroMAC2026/Workshop/mozart-string_quartet_no14-k387-I-annotated.tla",
+  "file_path": "/home/laser/git/annotation_workshop_euromac11/tilia/mozart-string_quartet_no14-k387-I.tla",
   "media_path": "https://www.youtube.com/watch?v=A3bAiTtM2Pc",
   "media_metadata": {
-    "title": "mozart-string_quartet_no14-k387-I-annotated",
+    "title": "mozart-string_quartet_no14-k387-I",
     "notes": "",
     "media length": 2065.0,
     "composer": "",
@@ -22,7 +22,7 @@
     "0": {
       "is_visible": true,
       "ordinal": 2,
-      "height": 40,
+      "height": 36,
       "kind": "SLIDER_TIMELINE",
       "components": {},
       "components_hash": "",
@@ -43,7 +43,22 @@
         7,
         8,
         9,
-        10
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
       ],
       "beats_in_measure": [
         4,
@@ -55,219 +70,544 @@
         4,
         4,
         4,
-        4
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1
       ],
       "measures_to_force_display": [],
       "height": 35,
       "is_visible": true,
       "name": "Beatgrid",
       "ordinal": 3,
-      "hash": "91b83d74597b95e70c527bd95a1a230d",
+      "hash": "beb9e74963cc7f1587a1ceab92ddaed8",
       "components": {
         "2": {
-          "time": 8.856021881103516,
+          "time": 8.06898307800293,
           "kind": "BEAT",
-          "hash": "2aa22a02bc1d40a201099f3536b5dd42"
+          "hash": "422e397c8abf648e96d69121926e4e12"
         },
         "3": {
-          "time": 9.254769325256348,
+          "time": 8.669504165649414,
           "kind": "BEAT",
-          "hash": "c117e8cab6bfb56d73475ee82f01aa7a"
+          "hash": "f9daade36a1c46b6f304b90c1e0f6905"
         },
         "4": {
-          "time": 9.754270553588867,
+          "time": 9.0689115524292,
           "kind": "BEAT",
-          "hash": "1cc66f57fd2252cdf6376e5f8c279d00"
+          "hash": "6832db65a6888a8777fd0aaf281f03aa"
         },
         "5": {
-          "time": 10.255208969116211,
+          "time": 9.570043563842773,
           "kind": "BEAT",
-          "hash": "0f24a8d001a3f5761ad67a5fdd001282"
+          "hash": "f96b7d083333f4fa948c2a9d4bb263a5"
         },
         "6": {
-          "time": 10.755294799804688,
+          "time": 10.078082084655762,
           "kind": "BEAT",
-          "hash": "4eec2b605b1d392d7c65f977a8fde1ab"
+          "hash": "9ab0ecf02d7c8b623abd9cb8d88b48d8"
         },
         "7": {
-          "time": 11.255339622497559,
+          "time": 10.669548988342285,
           "kind": "BEAT",
-          "hash": "f5d72c524097ba0a086dfc30f1d5079f"
+          "hash": "a8dfa8820a348e9b6932dc0aacf4e4b2"
         },
         "8": {
-          "time": 11.756505966186523,
+          "time": 11.169657707214355,
           "kind": "BEAT",
-          "hash": "54ee1883b4fb1f79867616bea83b4956"
+          "hash": "29297eb0dbf926e1543ebbd3928f2da0"
         },
         "9": {
-          "time": 12.355572700500488,
+          "time": 11.769970893859863,
           "kind": "BEAT",
-          "hash": "7d8e454db4959441c4eb51327647aa0f"
+          "hash": "369aaa2ff341f833d52e122f6e2e2c67"
         },
         "10": {
-          "time": 12.954469680786133,
+          "time": 12.368895530700684,
           "kind": "BEAT",
-          "hash": "5966c95c63370f47dbf275221d8c8b7f"
+          "hash": "8598074b2ccead6188eadbf72b95bb3d"
         },
         "11": {
-          "time": 13.65531063079834,
+          "time": 12.969460487365723,
           "kind": "BEAT",
-          "hash": "d0cda601b238e799278e58e174f17830"
+          "hash": "3a57a4934912d908047affca856f5007"
         },
         "12": {
-          "time": 14.254531860351562,
+          "time": 13.499999999999995,
           "kind": "BEAT",
-          "hash": "9940fcc2f92f9c4e379923576cb8fe61"
+          "hash": "e7468cedfbd34f5825a76cedc9d51c96"
         },
         "13": {
-          "time": 14.753674507141113,
+          "time": 13.999999999999995,
           "kind": "BEAT",
-          "hash": "6cb98203c065b93a80a0e37dc43aa817"
+          "hash": "f9895eeb52e79dd605f0d2d7491fa2ef"
         },
         "14": {
-          "time": 15.253594398498535,
+          "time": 14.568953514099121,
           "kind": "BEAT",
-          "hash": "0c688b895fa4f56e83c03a7333ce3b8f"
+          "hash": "8c96670d0b75fcce5a6c20b4c5e0bbb4"
         },
         "15": {
-          "time": 15.855005264282227,
+          "time": 15.069629669189453,
           "kind": "BEAT",
-          "hash": "d75d0030fd95dd340fe152e32b66dda9"
+          "hash": "5aaeec105c8f1cae46d7fac2d6a4045d"
         },
         "16": {
-          "time": 16.355138778686523,
+          "time": 15.56875991821289,
           "kind": "BEAT",
-          "hash": "5c8c5d5e936d10fbca77e132ff76b926"
+          "hash": "fc70cff4eef7c765c0253f67a6a95624"
         },
         "17": {
-          "time": 16.854127883911133,
+          "time": 16.068927764892578,
           "kind": "BEAT",
-          "hash": "4c0718fb8808506cbde0e1413ff339fb"
+          "hash": "70eef55db9b881cc6f094d90ec18779d"
         },
         "18": {
-          "time": 17.45559310913086,
+          "time": 16.668926239013672,
           "kind": "BEAT",
-          "hash": "d4e44421973da8390020e5cdb5ab9eec"
+          "hash": "72b80de2abc591b36b7030c0107169ba"
         },
         "19": {
-          "time": 18.053672790527344,
+          "time": 17.268993377685547,
           "kind": "BEAT",
-          "hash": "6deda9ab36c9912e3edd25d9edf973b9"
+          "hash": "4b9a7761e7a836877da014faf4691a9f"
         },
         "20": {
-          "time": 18.55515480041504,
+          "time": 17.86908721923828,
           "kind": "BEAT",
-          "hash": "bf3aabf060a41c257c2a7526fde4d487"
+          "hash": "be45be7df33b3e8b2fc527b15c4e325e"
         },
         "21": {
-          "time": 19.05458641052246,
+          "time": 18.36954116821289,
           "kind": "BEAT",
-          "hash": "dc855b97cd8d49950629fac55770a6af"
+          "hash": "2b39ce132d3456ea83f4f2c927e53155"
         },
         "22": {
-          "time": 19.55466651916504,
+          "time": 18.868919372558594,
           "kind": "BEAT",
-          "hash": "8ad4a6f676fc3a4ff8df063af7c1cf76"
+          "hash": "616e7ad95c084ef530c7f4f75f8ac2a9"
         },
         "23": {
-          "time": 20.15485954284668,
+          "time": 19.374999999999993,
           "kind": "BEAT",
-          "hash": "55cd00ae8a04075763559a7cecb10203"
+          "hash": "336798e239227e6ac058cc09ab5f670d"
         },
         "24": {
-          "time": 20.655073165893555,
+          "time": 19.968921661376953,
           "kind": "BEAT",
-          "hash": "399ce46439f24dc3ca665bbb7c9961cb"
+          "hash": "f8536e15321dd788aeda50acccd93dd2"
         },
         "25": {
-          "time": 21.154298782348633,
+          "time": 20.469558715820312,
           "kind": "BEAT",
-          "hash": "c6b120ff0bdc8a876679a97e6bb643a6"
+          "hash": "31e859d4c0ee171e16eddf04061015e7"
         },
         "26": {
-          "time": 21.755157470703125,
+          "time": 21.069759368896484,
           "kind": "BEAT",
-          "hash": "9749dc34c4b9ae8195080e0a66a0ff2d"
+          "hash": "65811505c1979a2e0b57fbb4a4693cd5"
         },
         "27": {
-          "time": 22.25506019592285,
+          "time": 21.569007873535156,
           "kind": "BEAT",
-          "hash": "21186ef2a68f72b9ea8ceeae8e990c34"
+          "hash": "f52f0fc59dd742d89475c2022b84ad01"
         },
         "28": {
-          "time": 22.755117416381836,
+          "time": 22.068984985351562,
           "kind": "BEAT",
-          "hash": "efab9d8541e8e59814131360d719aa17"
+          "hash": "220e5a703802bd104a1a3c5c735a41b4"
         },
         "29": {
-          "time": 23.254432678222656,
+          "time": 22.56964111328125,
           "kind": "BEAT",
-          "hash": "d03cf3a940a0220598bbf4c06a773354"
+          "hash": "3c4d4186a7da7e06b1eeb1337067049d"
         },
         "30": {
-          "time": 23.854013442993164,
+          "time": 23.16887664794922,
           "kind": "BEAT",
-          "hash": "1956a8bc86aa2b4a74d9c4c3a478a7d2"
+          "hash": "b0dd62da06f0cc803c670f4f38b3fbef"
         },
         "31": {
-          "time": 24.353952407836914,
+          "time": 23.66899871826172,
           "kind": "BEAT",
-          "hash": "38ec70e42b774f11583645e739fcbb22"
+          "hash": "ce829ce60aaa67540b49a06baa1d21c7"
         },
         "32": {
-          "time": 24.9547061920166,
+          "time": 24.268985748291016,
           "kind": "BEAT",
-          "hash": "727093a1069bd3887f53baec7befa80d"
+          "hash": "7a5b13ab7823cd422007e7c5238104fe"
         },
         "33": {
-          "time": 25.65593719482422,
+          "time": 24.869863510131836,
           "kind": "BEAT",
-          "hash": "0740b5f1fca77d686b15b66e3e29469b"
+          "hash": "26962d0ba79f3b2bba25d6442b99ec1a"
         },
         "34": {
-          "time": 26.011789321899414,
+          "time": 25.477602005004883,
           "kind": "BEAT",
-          "hash": "3a19721f0bf7dd1550290de5ed59093c"
+          "hash": "a6fda3518f62e09225e5ac419db0a399"
         },
         "35": {
-          "time": 26.611608505249023,
+          "time": 26.06888198852539,
           "kind": "BEAT",
-          "hash": "a5bf2a999198cf07561b7e9a5cc81f03"
+          "hash": "e13e9861f53454b01332d7739dd9b752"
         },
         "36": {
-          "time": 27.111907958984375,
+          "time": 26.569072723388672,
           "kind": "BEAT",
-          "hash": "623411e2da854080eb7754df804c8121"
+          "hash": "a140c9f3c21fd4cb82d6c1c43f13de8c"
         },
         "37": {
-          "time": 27.712486267089844,
+          "time": 27.072959899902344,
           "kind": "BEAT",
-          "hash": "a7a3941d15318871c6accdd6d598dfa8"
+          "hash": "d9ae94727b17350e0b80a78be78fac71"
         },
         "38": {
-          "time": 28.2119140625,
+          "time": 27.568880081176758,
           "kind": "BEAT",
-          "hash": "db20ac9ff33b65f8fd883d5453f9238e"
+          "hash": "adfee57bf57aaeb127e09fcfa5d6b40f"
         },
         "39": {
-          "time": 28.71207618713379,
+          "time": 28.168813705444336,
           "kind": "BEAT",
-          "hash": "b16639df49b084685208c10cf2eb022e"
+          "hash": "8340381ebbd7ade503e814b7b4e4dfd9"
         },
         "40": {
-          "time": 29.311870574951172,
+          "time": 28.66909408569336,
           "kind": "BEAT",
-          "hash": "3272d977e211ac3cb2a06c51506f761b"
+          "hash": "4b5c45e47a68b0d048cc6a6d6ebf9afc"
         },
         "41": {
-          "time": 29.91278648376465,
+          "time": 29.269075393676758,
           "kind": "BEAT",
-          "hash": "1e382336f6f6dea42d98f32c4ae4e292"
+          "hash": "62e23a58bdfa17ff3d28cad6e26862b5"
+        },
+        "42": {
+          "time": 29.869792938232422,
+          "kind": "BEAT",
+          "hash": "6eb50ff1283c3265e0893b1a85d8d74e"
+        },
+        "43": {
+          "time": 30.468921661376953,
+          "kind": "BEAT",
+          "hash": "0969396313636bf8c368674ce9e7492d"
+        },
+        "44": {
+          "time": 30.969127655029297,
+          "kind": "BEAT",
+          "hash": "ae2e170418f6def7218474b49f20eb45"
+        },
+        "45": {
+          "time": 31.469066619873047,
+          "kind": "BEAT",
+          "hash": "dde22fcdb2424150ee07fc54a3451bb1"
+        },
+        "46": {
+          "time": 31.969667434692383,
+          "kind": "BEAT",
+          "hash": "dc921db3b8d8cec2f4b567ea698a0e30"
+        },
+        "47": {
+          "time": 32.468990325927734,
+          "kind": "BEAT",
+          "hash": "a0421ad85202ec5292d9fc0128adbfad"
+        },
+        "48": {
+          "time": 32.96907424926758,
+          "kind": "BEAT",
+          "hash": "04d964fe35b48c63f95d8b28e2b23932"
+        },
+        "49": {
+          "time": 33.4700813293457,
+          "kind": "BEAT",
+          "hash": "639fe3c8a6733158f1edd36bf02e346b"
+        },
+        "50": {
+          "time": 33.977622985839844,
+          "kind": "BEAT",
+          "hash": "158df713d905915929b03c6932ff52ef"
+        },
+        "51": {
+          "time": 34.46992492675781,
+          "kind": "BEAT",
+          "hash": "3f7b572db998f4e4b26e9f4c172124e3"
+        },
+        "52": {
+          "time": 34.969058990478516,
+          "kind": "BEAT",
+          "hash": "5b48108e2ebd24718b46bddc84cb788e"
+        },
+        "53": {
+          "time": 35.468746185302734,
+          "kind": "BEAT",
+          "hash": "663b24daae47a1a758f7dc5a13093a42"
+        },
+        "54": {
+          "time": 35.96900939941406,
+          "kind": "BEAT",
+          "hash": "d5134fb7622bebdc95bb2c9aa072af4f"
+        },
+        "55": {
+          "time": 36.46902084350586,
+          "kind": "BEAT",
+          "hash": "c693c211666084acd24dc8405fa4a3a1"
+        },
+        "56": {
+          "time": 36.96903991699219,
+          "kind": "BEAT",
+          "hash": "14c0e11fcfb26c1a9cc569b6fd6f3e98"
+        },
+        "57": {
+          "time": 37.46882629394531,
+          "kind": "BEAT",
+          "hash": "d8d4655074ae65bbfbaba6af033be652"
+        },
+        "58": {
+          "time": 37.96908950805664,
+          "kind": "BEAT",
+          "hash": "8c1934880e1d573ade33ed50be634f86"
+        },
+        "59": {
+          "time": 38.469642639160156,
+          "kind": "BEAT",
+          "hash": "0d63e6b883b016e980450bc24de38b5b"
+        },
+        "60": {
+          "time": 38.96890640258789,
+          "kind": "BEAT",
+          "hash": "d9a64493c6c80b1d47de2fdcdef9936b"
+        },
+        "61": {
+          "time": 39.46918487548828,
+          "kind": "BEAT",
+          "hash": "47b36ebac23491bc421e62a2655785ea"
+        },
+        "62": {
+          "time": 40.06903839111328,
+          "kind": "BEAT",
+          "hash": "b53e9176a11c8a74c906a6e937942fe6"
+        },
+        "63": {
+          "time": 40.569549560546875,
+          "kind": "BEAT",
+          "hash": "6f6ef3e6b896401efd0fa7fc78e833d5"
+        },
+        "64": {
+          "time": 41.169036865234375,
+          "kind": "BEAT",
+          "hash": "70055ef3ffdddd7e4f3b0b7954521757"
+        },
+        "65": {
+          "time": 41.56903076171875,
+          "kind": "BEAT",
+          "hash": "4ce864ac223b9727047b8aba3cc10be9"
+        },
+        "66": {
+          "time": 42.069007873535156,
+          "kind": "BEAT",
+          "hash": "73e059ba915c9f1e03c0ae1676c7745c"
+        },
+        "67": {
+          "time": 42.56961441040039,
+          "kind": "BEAT",
+          "hash": "5f830a982515340c0bc22694b8971128"
+        },
+        "68": {
+          "time": 42.96900177001953,
+          "kind": "BEAT",
+          "hash": "ccec69b3cacd02de0ff837f34c60fa5f"
+        },
+        "69": {
+          "time": 43.46903610229492,
+          "kind": "BEAT",
+          "hash": "0bd885828eeb9f5c96a2b38a0b93e631"
+        },
+        "70": {
+          "time": 43.97076416015625,
+          "kind": "BEAT",
+          "hash": "86b9d9f9406de6c2f97cd2a8becfffee"
+        },
+        "71": {
+          "time": 44.46888732910156,
+          "kind": "BEAT",
+          "hash": "8efeb9e9a0817606aa49a7ace35239da"
+        },
+        "72": {
+          "time": 44.969032287597656,
+          "kind": "BEAT",
+          "hash": "46daefa4f5e4336c630ef8d1d2cbde39"
+        },
+        "73": {
+          "time": 45.468997955322266,
+          "kind": "BEAT",
+          "hash": "b8dd32f2b51a4046bc1e9ebc441459a1"
+        },
+        "74": {
+          "time": 45.968719482421875,
+          "kind": "BEAT",
+          "hash": "33a43d49c0dbdb4ae75f2f517c51c763"
+        },
+        "75": {
+          "time": 46.568904876708984,
+          "kind": "BEAT",
+          "hash": "d036b60e03c28af93864b5fff6d497bc"
+        },
+        "76": {
+          "time": 47.068973541259766,
+          "kind": "BEAT",
+          "hash": "05298728e10b4f6dc3142c2caf563532"
+        },
+        "77": {
+          "time": 47.46980667114258,
+          "kind": "BEAT",
+          "hash": "23111ac1cea9cdc293b6edd69cc33dce"
+        },
+        "78": {
+          "time": 47.96937561035156,
+          "kind": "BEAT",
+          "hash": "910a4aa59ee3cf6b5433ef27c3a91a41"
+        },
+        "79": {
+          "time": 48.469051361083984,
+          "kind": "BEAT",
+          "hash": "76323f449c397c03200f0ae3376e337a"
+        },
+        "80": {
+          "time": 49.06964874267578,
+          "kind": "BEAT",
+          "hash": "83b780b25df8494ba4f71c270409343b"
+        },
+        "81": {
+          "time": 49.66909408569336,
+          "kind": "BEAT",
+          "hash": "3f3110baa01a53b29e245154b65c8721"
+        },
+        "82": {
+          "time": 50.169044494628906,
+          "kind": "BEAT",
+          "hash": "a19d4c4f9f8d72cc5ab2af6073f9cf1b"
+        },
+        "83": {
+          "time": 50.66908645629883,
+          "kind": "BEAT",
+          "hash": "352ca1dea937766ae245b4e1564e51d4"
+        },
+        "84": {
+          "time": 51.1685905456543,
+          "kind": "BEAT",
+          "hash": "3998f8fc2969ab9f2acfa722b53e753b"
+        },
+        "85": {
+          "time": 51.668922424316406,
+          "kind": "BEAT",
+          "hash": "1b361570d9bd35bbc2bdf61fe807651a"
+        },
+        "86": {
+          "time": 52.16915512084961,
+          "kind": "BEAT",
+          "hash": "ccddbc80f57137a88144881daa73cf9d"
+        },
+        "87": {
+          "time": 52.577022552490234,
+          "kind": "BEAT",
+          "hash": "fea5ed59ad5d28a26381ec2ee600ca67"
+        },
+        "88": {
+          "time": 53.06896209716797,
+          "kind": "BEAT",
+          "hash": "fc9868d49f74c206f699626facbc742d"
+        },
+        "89": {
+          "time": 53.569068908691406,
+          "kind": "BEAT",
+          "hash": "c1caea7f851db712bd753b401ee5c846"
+        },
+        "90": {
+          "time": 54.069091796875,
+          "kind": "BEAT",
+          "hash": "cf24e9667535f51fe56cbbc911647a54"
+        },
+        "91": {
+          "time": 54.56913757324219,
+          "kind": "BEAT",
+          "hash": "9e447ab5d48543fe8161c7cb420fbd91"
+        },
+        "92": {
+          "time": 55.06901550292969,
+          "kind": "BEAT",
+          "hash": "df8555907b21dea33dcdce917de4b633"
+        },
+        "93": {
+          "time": 55.56999969482422,
+          "kind": "BEAT",
+          "hash": "329da55aa6ecb03b3a7a128cd80b2e6d"
+        },
+        "94": {
+          "time": 56.16998291015625,
+          "kind": "BEAT",
+          "hash": "3f4c8e8bd286a1ed619f1edf169be673"
+        },
+        "95": {
+          "time": 56.76885986328125,
+          "kind": "BEAT",
+          "hash": "46f57db34f0009ee82acfa8012b8db1d"
+        },
+        "96": {
+          "time": 57.27003479003906,
+          "kind": "BEAT",
+          "hash": "1a91ef13f216b443a980de0df1e5105b"
+        },
+        "97": {
+          "time": 57.769287109375,
+          "kind": "BEAT",
+          "hash": "09c83eff1e317f8f56c270709d899f12"
+        },
+        "98": {
+          "time": 58.369964599609375,
+          "kind": "BEAT",
+          "hash": "485eda0e068d38a086972b86ce7ac0cd"
         }
       },
-      "components_hash": "04de18ce3238ee548bd2cfee01e65c0e"
+      "components_hash": "4d5d52ad2df352ae29aa8b326726708c"
     },
-    "42": {
+    "102": {
+      "kind": "HIERARCHY_TIMELINE",
+      "name": "Form",
+      "height": 120,
+      "is_visible": true,
+      "ordinal": 1,
+      "hash": "bffeed01a8a4f74a6799e4f2154b28fa",
+      "components": {
+        "103": {
+          "start": 7.400512695312497,
+          "pre_start": 7.400512695312497,
+          "end": 76.59196853637692,
+          "post_end": 76.59196853637692,
+          "level": 3,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "f98cd319c16a783e88954ffb5a2065b0"
+        }
+      },
+      "components_hash": "ff12a11193ce3c66023b26214fa37c3c"
+    },
+    "104": {
       "kind": "HARMONY_TIMELINE",
       "level_count": 1,
       "level_height": 35,
@@ -277,225 +617,21 @@
       "visible_level_count": 2,
       "hash": "f7cacd84cb3baa3a495795b7887dab3b",
       "components": {
-        "43": {
-          "time": 8.856021881103516,
-          "comments": "",
-          "step": 4,
-          "accidental": 0,
-          "quality": "major",
-          "inversion": 0,
-          "applied_to": 0,
-          "level": 1,
-          "display_mode": "roman",
-          "custom_text": "",
-          "custom_text_font_type": "analytic",
-          "kind": "HARMONY",
-          "hash": "8941129fa734a0c56dac95546cba9615"
-        },
-        "45": {
-          "time": 9.254769325256348,
-          "comments": "",
-          "step": 4,
-          "accidental": 0,
-          "quality": "major",
-          "inversion": 1,
-          "applied_to": 0,
-          "level": 1,
-          "display_mode": "roman",
-          "custom_text": "",
-          "custom_text_font_type": "analytic",
-          "kind": "HARMONY",
-          "hash": "8baf265d23424801a9076f298bc71817"
-        },
-        "46": {
-          "time": 9.754270553588867,
-          "comments": "",
-          "step": 3,
-          "accidental": 1,
-          "quality": "diminished",
-          "inversion": 1,
-          "applied_to": 0,
-          "level": 1,
-          "display_mode": "roman",
-          "custom_text": "",
-          "custom_text_font_type": "analytic",
-          "kind": "HARMONY",
-          "hash": "ebe49769d982b98c566de777657e47cf"
-        },
-        "47": {
-          "time": 10.511999999999993,
-          "comments": "",
-          "step": 2,
-          "accidental": 0,
-          "quality": "minor",
-          "inversion": 1,
-          "applied_to": 0,
-          "level": 1,
-          "display_mode": "roman",
-          "custom_text": "",
-          "custom_text_font_type": "analytic",
-          "kind": "HARMONY",
-          "hash": "b553cd125e3063c7f1c23d7bad964b7c"
-        },
-        "44": {
-          "time": 8.856021881103516,
+        "105": {
+          "time": 7.400512695312497,
           "step": 4,
           "accidental": 0,
           "type": "major",
           "comments": "",
           "level": 2,
           "kind": "MODE",
-          "hash": "b41d25408d27398183091efa3f4f5806"
+          "hash": "e51188a02a10907f0aa3d876ec95a033"
         }
       },
-      "components_hash": "3ba4574172b0b734e06ceb8900fa445b"
-    },
-    "48": {
-      "kind": "MARKER_TIMELINE",
-      "name": "Cadences",
-      "height": 30,
-      "is_visible": true,
-      "ordinal": 5,
-      "hash": "ed9b45760e443ad8ab3c71eae4b67960",
-      "components": {
-        "50": {
-          "time": 16.289062499999993,
-          "comments": "",
-          "label": "I: TC",
-          "color": null,
-          "kind": "MARKER",
-          "hash": "71bd681893bb2c28fe8bd79881944905"
-        },
-        "51": {
-          "time": 24.9547061920166,
-          "comments": "",
-          "label": "I: DC",
-          "color": null,
-          "kind": "MARKER",
-          "hash": "e6d7c66f789bf313941f4b1dd8a1da3b"
-        },
-        "49": {
-          "time": 29.33593749999999,
-          "comments": "",
-          "label": "I: PAC",
-          "color": null,
-          "kind": "MARKER",
-          "hash": "7215f7f5c51a80ed77033ad292d8f071"
-        }
-      },
-      "components_hash": "1f92e5001e68dd7c68976eb94bafc922"
-    },
-    "52": {
-      "kind": "HIERARCHY_TIMELINE",
-      "name": "Form",
-      "height": 120,
-      "is_visible": true,
-      "ordinal": 1,
-      "hash": "bffeed01a8a4f74a6799e4f2154b28fa",
-      "components": {
-        "55": {
-          "start": 8.678436279296871,
-          "pre_start": 8.678436279296871,
-          "end": 12.836179733276367,
-          "post_end": 12.836179733276367,
-          "level": 2,
-          "label": "",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "22a74582f5e0f859c9e467b8eed62171"
-        },
-        "57": {
-          "start": 12.836179733276367,
-          "pre_start": 12.836179733276367,
-          "end": 17.26540756225586,
-          "post_end": 17.26540756225586,
-          "level": 2,
-          "label": "",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "a282d0fcc63f4d87940c304992ac8079"
-        },
-        "60": {
-          "start": 8.678436279296871,
-          "pre_start": 8.678436279296871,
-          "end": 17.26540756225586,
-          "post_end": 17.26540756225586,
-          "level": 3,
-          "label": "",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "6fb275e3f0e3edb37189465299d110f3"
-        },
-        "67": {
-          "start": 17.26540756225586,
-          "pre_start": 17.26540756225586,
-          "end": 23.854013442993164,
-          "post_end": 23.854013442993164,
-          "level": 3,
-          "label": "",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "5c73d9bd7c3c9746e86c63d6c7d0554e"
-        },
-        "69": {
-          "start": 23.854013442993164,
-          "pre_start": 23.854013442993164,
-          "end": 26.011789321899414,
-          "post_end": 26.011789321899414,
-          "level": 3,
-          "label": "",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "4c5f11bb4dbe54b0c610ab4de89c3132"
-        },
-        "70": {
-          "start": 26.011789321899414,
-          "pre_start": 26.011789321899414,
-          "end": 31.089782714843736,
-          "post_end": 31.089782714843736,
-          "level": 3,
-          "label": "",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "32fc7f0f2d3d34ae0931479847e781ff"
-        },
-        "53": {
-          "start": 8.678436279296871,
-          "pre_start": 8.678436279296871,
-          "end": 31.089782714843736,
-          "post_end": 31.089782714843736,
-          "level": 4,
-          "label": "theme",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "dbf54d4b640d8e33ccbd1fc9135ec606"
-        }
-      },
-      "components_hash": "a023f4074b35c74c889690dd46e02bf9"
+      "components_hash": "dff1954cb1f89352dc847e22d3df1f02"
     }
   },
-  "timelines_hash": "ea5d5d084ce980e3a88ee2edbc5e3c31",
+  "timelines_hash": "b912d87d42b1734a32db4c316449cc73",
   "app_name": "TiLiA",
   "version": "0.6.4"
 }
