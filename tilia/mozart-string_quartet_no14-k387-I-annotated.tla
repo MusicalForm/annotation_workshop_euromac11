@@ -1,5 +1,5 @@
 {
-  "file_path": "/home/laser/git/annotation_workshop_euromac11/tilia/mozart-string_quartet_no14-k387-I-annotated.tla",
+  "file_path": "C:/Users/hentschel/git/annotation_workshop_euromac11/tilia/mozart-string_quartet_no14-k387-I-annotated.tla",
   "media_path": "https://www.youtube.com/watch?v=A3bAiTtM2Pc",
   "media_metadata": {
     "title": "mozart-string_quartet_no14-k387-I",
@@ -617,7 +617,7 @@
       "visible_level_count": 2,
       "hash": "f7cacd84cb3baa3a495795b7887dab3b",
       "components": {
-        "106": {
+        "105": {
           "time": 8.06898307800293,
           "comments": "",
           "step": 4,
@@ -632,7 +632,7 @@
           "kind": "HARMONY",
           "hash": "3de4fd07358a99bfdb4beef10c260fdb"
         },
-        "107": {
+        "106": {
           "time": 8.669504165649414,
           "comments": "",
           "step": 4,
@@ -647,7 +647,7 @@
           "kind": "HARMONY",
           "hash": "bc3e7c7148e8652f87926c9b63f3546e"
         },
-        "108": {
+        "107": {
           "time": 9.0689115524292,
           "comments": "",
           "step": 3,
@@ -662,7 +662,7 @@
           "kind": "HARMONY",
           "hash": "5c7af8eda9269b3f5b219176f4cd9f6a"
         },
-        "109": {
+        "108": {
           "time": 9.775999999999993,
           "comments": "",
           "step": 2,
@@ -677,7 +677,7 @@
           "kind": "HARMONY",
           "hash": "07d68847f85eaac4f7f75ed85c0f60b4"
         },
-        "110": {
+        "109": {
           "time": 10.078082084655762,
           "comments": "",
           "step": 1,
@@ -692,7 +692,7 @@
           "kind": "HARMONY",
           "hash": "39939fa5a4887c886d3f28cdcb23999f"
         },
-        "111": {
+        "110": {
           "time": 10.669548988342285,
           "comments": "",
           "step": 2,
@@ -707,7 +707,7 @@
           "kind": "HARMONY",
           "hash": "d214c080a2239c836021beb5999c50ad"
         },
-        "112": {
+        "111": {
           "time": 11.169657707214355,
           "comments": "",
           "step": 5,
@@ -722,7 +722,7 @@
           "kind": "HARMONY",
           "hash": "cb3120c2a4e444fde3a36b0fbc0495f5"
         },
-        "113": {
+        "112": {
           "time": 12.368895530700684,
           "comments": "",
           "step": 5,
@@ -737,7 +737,7 @@
           "kind": "HARMONY",
           "hash": "ed69f7ff9ef356b876675c699337f716"
         },
-        "114": {
+        "113": {
           "time": 12.969460487365723,
           "comments": "",
           "step": 5,
@@ -752,7 +752,7 @@
           "kind": "HARMONY",
           "hash": "5270adb5e6d481dfe556bf26e5ddb8c3"
         },
-        "115": {
+        "114": {
           "time": 13.499999999999995,
           "comments": "",
           "step": 1,
@@ -767,7 +767,7 @@
           "kind": "HARMONY",
           "hash": "d778db7bc4a7c71abfaa9878b81a5458"
         },
-        "116": {
+        "115": {
           "time": 14.296874999999995,
           "comments": "",
           "step": 0,
@@ -782,7 +782,7 @@
           "kind": "HARMONY",
           "hash": "ebbd1bcb8728525b329bfd99df2cf687"
         },
-        "117": {
+        "116": {
           "time": 14.568953514099121,
           "comments": "",
           "step": 1,
@@ -797,7 +797,7 @@
           "kind": "HARMONY",
           "hash": "88689b07bf3481986644c9dd3e9a939c"
         },
-        "118": {
+        "117": {
           "time": 15.56875991821289,
           "comments": "",
           "step": 4,
@@ -812,7 +812,7 @@
           "kind": "HARMONY",
           "hash": "ac0b5bf9ffb6f2bf41f455ba8b7f4bfe"
         },
-        "119": {
+        "118": {
           "time": 17.86908721923828,
           "comments": "",
           "step": 1,
@@ -827,7 +827,7 @@
           "kind": "HARMONY",
           "hash": "a49f05d2033ceb7dc7fb0d681a42b4c6"
         },
-        "120": {
+        "119": {
           "time": 18.36954116821289,
           "comments": "",
           "step": 4,
@@ -842,7 +842,7 @@
           "kind": "HARMONY",
           "hash": "60cf562d2d877bdc19a603d0343cdbea"
         },
-        "121": {
+        "120": {
           "time": 19.968921661376953,
           "comments": "",
           "step": 1,
@@ -857,7 +857,7 @@
           "kind": "HARMONY",
           "hash": "aa1d7523c89cc3cffb3131abe8d694bf"
         },
-        "122": {
+        "121": {
           "time": 20.469558715820312,
           "comments": "",
           "step": 4,
@@ -872,7 +872,7 @@
           "kind": "HARMONY",
           "hash": "341c1a7e6781fde1d77b724eb3910c07"
         },
-        "123": {
+        "122": {
           "time": 22.143999999999984,
           "comments": "",
           "step": 5,
@@ -887,7 +887,7 @@
           "kind": "HARMONY",
           "hash": "a0b8237e493ca956ab66ac09589a76d2"
         },
-        "124": {
+        "123": {
           "time": 23.16887664794922,
           "comments": "",
           "step": 4,
@@ -902,7 +902,7 @@
           "kind": "HARMONY",
           "hash": "91b055592294b57d304e0562d3aaf016"
         },
-        "126": {
+        "124": {
           "time": 23.66899871826172,
           "comments": "",
           "step": 1,
@@ -917,7 +917,7 @@
           "kind": "HARMONY",
           "hash": "59202a3c7a8ad8ee3197e0e2eb2b1556"
         },
-        "127": {
+        "125": {
           "time": 24.268985748291016,
           "comments": "",
           "step": 2,
@@ -932,7 +932,7 @@
           "kind": "HARMONY",
           "hash": "99e6c5d467f322197149211dd54fa9c8"
         },
-        "128": {
+        "126": {
           "time": 26.569072723388672,
           "comments": "",
           "step": 0,
@@ -947,7 +947,7 @@
           "kind": "HARMONY",
           "hash": "f35042a3245c6194093a25f3efd77186"
         },
-        "129": {
+        "127": {
           "time": 27.568880081176758,
           "comments": "",
           "step": 1,
@@ -962,7 +962,7 @@
           "kind": "HARMONY",
           "hash": "fd2f25c9218fe90477c713008a8264c9"
         },
-        "130": {
+        "128": {
           "time": 28.66909408569336,
           "comments": "",
           "step": 4,
@@ -977,7 +977,7 @@
           "kind": "HARMONY",
           "hash": "b048a0e4f0f6b7dccc5a5ce34c3f029a"
         },
-        "105": {
+        "129": {
           "time": 7.400512695312497,
           "step": 4,
           "accidental": 0,
