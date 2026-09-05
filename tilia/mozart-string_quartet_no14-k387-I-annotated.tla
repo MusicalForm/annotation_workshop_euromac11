@@ -21,7 +21,7 @@
   "timelines": {
     "0": {
       "is_visible": true,
-      "ordinal": 2,
+      "ordinal": 3,
       "height": 36,
       "kind": "SLIDER_TIMELINE",
       "components": {},
@@ -91,8 +91,8 @@
       "height": 35,
       "is_visible": true,
       "name": "Beatgrid",
-      "ordinal": 3,
-      "hash": "beb9e74963cc7f1587a1ceab92ddaed8",
+      "ordinal": 4,
+      "hash": "523f69b2ce25078b4c446b962763d7e5",
       "components": {
         "2": {
           "time": 8.06898307800293,
@@ -585,16 +585,16 @@
     "102": {
       "kind": "HIERARCHY_TIMELINE",
       "name": "Form",
-      "height": 120,
+      "height": 185,
       "is_visible": true,
       "ordinal": 1,
-      "hash": "bffeed01a8a4f74a6799e4f2154b28fa",
+      "hash": "d2f886191139e1303996f31d93c6c955",
       "components": {
         "103": {
           "start": 7.400512695312497,
           "pre_start": 7.400512695312497,
-          "end": 76.59196853637692,
-          "post_end": 76.59196853637692,
+          "end": 58.460235595703104,
+          "post_end": 58.460235595703104,
           "level": 3,
           "label": "",
           "color": "",
@@ -602,10 +602,10 @@
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "f98cd319c16a783e88954ffb5a2065b0"
+          "hash": "fb7ba3828d01b7a6dbfa1ba7eaa11acc"
         }
       },
-      "components_hash": "ff12a11193ce3c66023b26214fa37c3c"
+      "components_hash": "aede1cd23c4fe4a0465ba07484ffebaf"
     },
     "104": {
       "kind": "HARMONY_TIMELINE",
@@ -613,9 +613,9 @@
       "level_height": 35,
       "is_visible": true,
       "name": "Harmony",
-      "ordinal": 4,
+      "ordinal": 5,
       "visible_level_count": 2,
-      "hash": "f7cacd84cb3baa3a495795b7887dab3b",
+      "hash": "15f75ae87d5b300f7635f1fb1147aabd",
       "components": {
         "105": {
           "time": 8.06898307800293,
@@ -989,9 +989,19 @@
         }
       },
       "components_hash": "fa6e8749385938d09499f55e16e917ee"
+    },
+    "130": {
+      "kind": "MARKER_TIMELINE",
+      "name": "Cadences",
+      "height": 30,
+      "is_visible": true,
+      "ordinal": 2,
+      "hash": "cb62c6623f4002e37425106bae1c8172",
+      "components": {},
+      "components_hash": "d41d8cd98f00b204e9800998ecf8427e"
     }
   },
-  "timelines_hash": "b912d87d42b1734a32db4c316449cc73",
+  "timelines_hash": "c42b0a78b23530bbf34cba5a31d03707",
   "app_name": "TiLiA",
   "version": "0.6.4"
 }
