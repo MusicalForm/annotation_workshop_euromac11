@@ -503,8 +503,8 @@
       "hash": "5eeb322e7bf17fe9b53770ca22496e82",
       "components": {
         "103": {
-          "start": 7.400512695312497,
-          "pre_start": 7.400512695312497,
+          "start": 0.0,
+          "pre_start": 0.0,
           "end": 76.59196853637692,
           "post_end": 76.59196853637692,
           "level": 3,
@@ -514,10 +514,10 @@
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "f98cd319c16a783e88954ffb5a2065b0"
+          "hash": "afc61cccaae53e2dc948f4ed27fee0b6"
         }
       },
-      "components_hash": "ff12a11193ce3c66023b26214fa37c3c"
+      "components_hash": "371b7837c94db706edf5e778225c8815"
     },
     "104": {
       "kind": "HARMONY_TIMELINE",
