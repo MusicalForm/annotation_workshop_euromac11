@@ -544,21 +544,6 @@
           "kind": "HARMONY",
           "hash": "3de4fd07358a99bfdb4beef10c260fdb"
         },
-        "106": {
-          "time": 8.669504165649414,
-          "comments": "",
-          "step": 4,
-          "accidental": 0,
-          "quality": "major",
-          "inversion": 1,
-          "applied_to": 0,
-          "level": 1,
-          "display_mode": "roman",
-          "custom_text": "",
-          "custom_text_font_type": "analytic",
-          "kind": "HARMONY",
-          "hash": "bc3e7c7148e8652f87926c9b63f3546e"
-        },
         "107": {
           "time": 9.0689115524292,
           "comments": "",
@@ -900,7 +885,7 @@
           "hash": "e51188a02a10907f0aa3d876ec95a033"
         }
       },
-      "components_hash": "fa6e8749385938d09499f55e16e917ee"
+      "components_hash": "1378ea3de34e603664d2b80b34dfd388"
     },
     "130": {
       "kind": "BEAT_TIMELINE",
@@ -1048,407 +1033,407 @@
           "kind": "BEAT",
           "hash": "70eef55db9b881cc6f094d90ec18779d"
         },
-        "212": {
+        "147": {
           "time": 16.796104431152344,
           "kind": "BEAT",
           "hash": "d404e595c1bac2f22f81cf73fbd1f441"
         },
-        "213": {
+        "148": {
           "time": 17.290979385375977,
           "kind": "BEAT",
           "hash": "c8956091304a684721f4f406b9b8fb16"
         },
-        "214": {
+        "149": {
           "time": 17.89676284790039,
           "kind": "BEAT",
           "hash": "b2fd28277e61b38ce072b7801c22a735"
         },
-        "215": {
+        "150": {
           "time": 18.397809982299805,
           "kind": "BEAT",
           "hash": "13cacc836f92c9d26bb74dc1bca2f3a7"
         },
-        "216": {
+        "151": {
           "time": 18.99574851989746,
           "kind": "BEAT",
           "hash": "bed45c51e471f0562f75a00a11ac0fed"
         },
-        "217": {
+        "152": {
           "time": 19.496572494506836,
           "kind": "BEAT",
           "hash": "6c180e714e649c69146b710000544654"
         },
-        "218": {
+        "153": {
           "time": 19.99675750732422,
           "kind": "BEAT",
           "hash": "c90b86e7153295e6970afbfe2606be22"
         },
-        "219": {
+        "154": {
           "time": 20.59581756591797,
           "kind": "BEAT",
           "hash": "fe08acbb69e0e49e783ebde37452ccda"
         },
-        "220": {
+        "155": {
           "time": 21.095531463623047,
           "kind": "BEAT",
           "hash": "0679f5dbda0033a9b796520f3de0b870"
         },
-        "221": {
+        "156": {
           "time": 21.593692779541016,
           "kind": "BEAT",
           "hash": "f8862664c382982dc0f4029fea8b1ee4"
         },
-        "222": {
+        "157": {
           "time": 22.095144271850586,
           "kind": "BEAT",
           "hash": "950d5e0c56e4ff1107204adca49c98d9"
         },
-        "223": {
+        "158": {
           "time": 22.594640731811523,
           "kind": "BEAT",
           "hash": "3968dc515602a91710ded1ba5981ba75"
         },
-        "224": {
+        "159": {
           "time": 23.194416046142578,
           "kind": "BEAT",
           "hash": "b38de493945f574a845ff7fcffe6c39d"
         },
-        "225": {
+        "160": {
           "time": 23.695415496826172,
           "kind": "BEAT",
           "hash": "44729779632efb1821f11e34881eed7d"
         },
-        "226": {
+        "161": {
           "time": 24.295135498046875,
           "kind": "BEAT",
           "hash": "4d9a3cad4f550affb22c7fa0d7df96b1"
         },
-        "227": {
+        "162": {
           "time": 24.897611618041992,
           "kind": "BEAT",
           "hash": "a02a0f4e1da644df8d728521024bbba0"
         },
-        "147": {
+        "163": {
           "time": 25.477602005004883,
           "kind": "BEAT",
           "hash": "a6fda3518f62e09225e5ac419db0a399"
         },
-        "148": {
+        "164": {
           "time": 26.06888198852539,
           "kind": "BEAT",
           "hash": "e13e9861f53454b01332d7739dd9b752"
         },
-        "149": {
+        "165": {
           "time": 26.569072723388672,
           "kind": "BEAT",
           "hash": "a140c9f3c21fd4cb82d6c1c43f13de8c"
         },
-        "150": {
+        "166": {
           "time": 27.072959899902344,
           "kind": "BEAT",
           "hash": "d9ae94727b17350e0b80a78be78fac71"
         },
-        "151": {
+        "167": {
           "time": 27.568880081176758,
           "kind": "BEAT",
           "hash": "adfee57bf57aaeb127e09fcfa5d6b40f"
         },
-        "152": {
+        "168": {
           "time": 28.168813705444336,
           "kind": "BEAT",
           "hash": "8340381ebbd7ade503e814b7b4e4dfd9"
         },
-        "153": {
+        "169": {
           "time": 28.66909408569336,
           "kind": "BEAT",
           "hash": "4b5c45e47a68b0d048cc6a6d6ebf9afc"
         },
-        "154": {
+        "170": {
           "time": 29.269075393676758,
           "kind": "BEAT",
           "hash": "62e23a58bdfa17ff3d28cad6e26862b5"
         },
-        "155": {
+        "171": {
           "time": 29.869792938232422,
           "kind": "BEAT",
           "hash": "6eb50ff1283c3265e0893b1a85d8d74e"
         },
-        "156": {
+        "172": {
           "time": 30.468921661376953,
           "kind": "BEAT",
           "hash": "0969396313636bf8c368674ce9e7492d"
         },
-        "157": {
+        "173": {
           "time": 30.969127655029297,
           "kind": "BEAT",
           "hash": "ae2e170418f6def7218474b49f20eb45"
         },
-        "158": {
+        "174": {
           "time": 31.469066619873047,
           "kind": "BEAT",
           "hash": "dde22fcdb2424150ee07fc54a3451bb1"
         },
-        "159": {
+        "175": {
           "time": 31.969667434692383,
           "kind": "BEAT",
           "hash": "dc921db3b8d8cec2f4b567ea698a0e30"
         },
-        "160": {
+        "176": {
           "time": 32.468990325927734,
           "kind": "BEAT",
           "hash": "a0421ad85202ec5292d9fc0128adbfad"
         },
-        "161": {
+        "177": {
           "time": 32.96907424926758,
           "kind": "BEAT",
           "hash": "04d964fe35b48c63f95d8b28e2b23932"
         },
-        "162": {
+        "178": {
           "time": 33.4700813293457,
           "kind": "BEAT",
           "hash": "639fe3c8a6733158f1edd36bf02e346b"
         },
-        "163": {
+        "179": {
           "time": 33.977622985839844,
           "kind": "BEAT",
           "hash": "158df713d905915929b03c6932ff52ef"
         },
-        "164": {
+        "180": {
           "time": 34.46992492675781,
           "kind": "BEAT",
           "hash": "3f7b572db998f4e4b26e9f4c172124e3"
         },
-        "165": {
+        "181": {
           "time": 34.969058990478516,
           "kind": "BEAT",
           "hash": "5b48108e2ebd24718b46bddc84cb788e"
         },
-        "166": {
+        "182": {
           "time": 35.468746185302734,
           "kind": "BEAT",
           "hash": "663b24daae47a1a758f7dc5a13093a42"
         },
-        "167": {
+        "183": {
           "time": 35.96900939941406,
           "kind": "BEAT",
           "hash": "d5134fb7622bebdc95bb2c9aa072af4f"
         },
-        "168": {
+        "184": {
           "time": 36.46902084350586,
           "kind": "BEAT",
           "hash": "c693c211666084acd24dc8405fa4a3a1"
         },
-        "169": {
+        "185": {
           "time": 36.96903991699219,
           "kind": "BEAT",
           "hash": "14c0e11fcfb26c1a9cc569b6fd6f3e98"
         },
-        "170": {
+        "186": {
           "time": 37.46882629394531,
           "kind": "BEAT",
           "hash": "d8d4655074ae65bbfbaba6af033be652"
         },
-        "171": {
+        "187": {
           "time": 37.96908950805664,
           "kind": "BEAT",
           "hash": "8c1934880e1d573ade33ed50be634f86"
         },
-        "172": {
+        "188": {
           "time": 38.469642639160156,
           "kind": "BEAT",
           "hash": "0d63e6b883b016e980450bc24de38b5b"
         },
-        "173": {
+        "189": {
           "time": 38.96890640258789,
           "kind": "BEAT",
           "hash": "d9a64493c6c80b1d47de2fdcdef9936b"
         },
-        "174": {
+        "190": {
           "time": 39.46918487548828,
           "kind": "BEAT",
           "hash": "47b36ebac23491bc421e62a2655785ea"
         },
-        "175": {
+        "191": {
           "time": 40.06903839111328,
           "kind": "BEAT",
           "hash": "b53e9176a11c8a74c906a6e937942fe6"
         },
-        "176": {
+        "192": {
           "time": 40.569549560546875,
           "kind": "BEAT",
           "hash": "6f6ef3e6b896401efd0fa7fc78e833d5"
         },
-        "177": {
+        "193": {
           "time": 41.169036865234375,
           "kind": "BEAT",
           "hash": "70055ef3ffdddd7e4f3b0b7954521757"
         },
-        "178": {
+        "194": {
           "time": 41.56903076171875,
           "kind": "BEAT",
           "hash": "4ce864ac223b9727047b8aba3cc10be9"
         },
-        "179": {
+        "195": {
           "time": 42.069007873535156,
           "kind": "BEAT",
           "hash": "73e059ba915c9f1e03c0ae1676c7745c"
         },
-        "180": {
+        "196": {
           "time": 42.56961441040039,
           "kind": "BEAT",
           "hash": "5f830a982515340c0bc22694b8971128"
         },
-        "181": {
+        "197": {
           "time": 42.96900177001953,
           "kind": "BEAT",
           "hash": "ccec69b3cacd02de0ff837f34c60fa5f"
         },
-        "182": {
+        "198": {
           "time": 43.46903610229492,
           "kind": "BEAT",
           "hash": "0bd885828eeb9f5c96a2b38a0b93e631"
         },
-        "183": {
+        "199": {
           "time": 43.97076416015625,
           "kind": "BEAT",
           "hash": "86b9d9f9406de6c2f97cd2a8becfffee"
         },
-        "184": {
+        "200": {
           "time": 44.46888732910156,
           "kind": "BEAT",
           "hash": "8efeb9e9a0817606aa49a7ace35239da"
         },
-        "185": {
+        "201": {
           "time": 44.969032287597656,
           "kind": "BEAT",
           "hash": "46daefa4f5e4336c630ef8d1d2cbde39"
         },
-        "186": {
+        "202": {
           "time": 45.468997955322266,
           "kind": "BEAT",
           "hash": "b8dd32f2b51a4046bc1e9ebc441459a1"
         },
-        "187": {
+        "203": {
           "time": 45.968719482421875,
           "kind": "BEAT",
           "hash": "33a43d49c0dbdb4ae75f2f517c51c763"
         },
-        "188": {
+        "204": {
           "time": 46.568904876708984,
           "kind": "BEAT",
           "hash": "d036b60e03c28af93864b5fff6d497bc"
         },
-        "189": {
+        "205": {
           "time": 47.068973541259766,
           "kind": "BEAT",
           "hash": "05298728e10b4f6dc3142c2caf563532"
         },
-        "190": {
+        "206": {
           "time": 47.46980667114258,
           "kind": "BEAT",
           "hash": "23111ac1cea9cdc293b6edd69cc33dce"
         },
-        "191": {
+        "207": {
           "time": 47.96937561035156,
           "kind": "BEAT",
           "hash": "910a4aa59ee3cf6b5433ef27c3a91a41"
         },
-        "192": {
+        "208": {
           "time": 48.469051361083984,
           "kind": "BEAT",
           "hash": "76323f449c397c03200f0ae3376e337a"
         },
-        "193": {
+        "209": {
           "time": 49.06964874267578,
           "kind": "BEAT",
           "hash": "83b780b25df8494ba4f71c270409343b"
         },
-        "194": {
+        "210": {
           "time": 49.66909408569336,
           "kind": "BEAT",
           "hash": "3f3110baa01a53b29e245154b65c8721"
         },
-        "195": {
+        "211": {
           "time": 50.169044494628906,
           "kind": "BEAT",
           "hash": "a19d4c4f9f8d72cc5ab2af6073f9cf1b"
         },
-        "196": {
+        "212": {
           "time": 50.66908645629883,
           "kind": "BEAT",
           "hash": "352ca1dea937766ae245b4e1564e51d4"
         },
-        "197": {
+        "213": {
           "time": 51.1685905456543,
           "kind": "BEAT",
           "hash": "3998f8fc2969ab9f2acfa722b53e753b"
         },
-        "198": {
+        "214": {
           "time": 51.668922424316406,
           "kind": "BEAT",
           "hash": "1b361570d9bd35bbc2bdf61fe807651a"
         },
-        "199": {
+        "215": {
           "time": 52.16915512084961,
           "kind": "BEAT",
           "hash": "ccddbc80f57137a88144881daa73cf9d"
         },
-        "200": {
+        "216": {
           "time": 52.577022552490234,
           "kind": "BEAT",
           "hash": "fea5ed59ad5d28a26381ec2ee600ca67"
         },
-        "201": {
+        "217": {
           "time": 53.06896209716797,
           "kind": "BEAT",
           "hash": "fc9868d49f74c206f699626facbc742d"
         },
-        "202": {
+        "218": {
           "time": 53.569068908691406,
           "kind": "BEAT",
           "hash": "c1caea7f851db712bd753b401ee5c846"
         },
-        "203": {
+        "219": {
           "time": 54.069091796875,
           "kind": "BEAT",
           "hash": "cf24e9667535f51fe56cbbc911647a54"
         },
-        "204": {
+        "220": {
           "time": 54.56913757324219,
           "kind": "BEAT",
           "hash": "9e447ab5d48543fe8161c7cb420fbd91"
         },
-        "205": {
+        "221": {
           "time": 55.06901550292969,
           "kind": "BEAT",
           "hash": "df8555907b21dea33dcdce917de4b633"
         },
-        "206": {
+        "222": {
           "time": 55.56999969482422,
           "kind": "BEAT",
           "hash": "329da55aa6ecb03b3a7a128cd80b2e6d"
         },
-        "207": {
+        "223": {
           "time": 56.16998291015625,
           "kind": "BEAT",
           "hash": "3f4c8e8bd286a1ed619f1edf169be673"
         },
-        "208": {
+        "224": {
           "time": 56.76885986328125,
           "kind": "BEAT",
           "hash": "46f57db34f0009ee82acfa8012b8db1d"
         },
-        "209": {
+        "225": {
           "time": 57.27003479003906,
           "kind": "BEAT",
           "hash": "1a91ef13f216b443a980de0df1e5105b"
         },
-        "210": {
+        "226": {
           "time": 57.769287109375,
           "kind": "BEAT",
           "hash": "09c83eff1e317f8f56c270709d899f12"
         },
-        "211": {
+        "227": {
           "time": 58.369964599609375,
           "kind": "BEAT",
           "hash": "485eda0e068d38a086972b86ce7ac0cd"
